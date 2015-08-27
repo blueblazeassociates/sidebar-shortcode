@@ -1,0 +1,21 @@
+{
+  "name" : "blueblazeassociates/sidebar-shortcode",
+  "description" : "Two shortcodes for WordPress that will allow you to call sidebars or widget areas from the WordPress editor.",
+  "type" : "wordpress-plugin",
+  "homepage" : "https://github.com/blueblazeassociates/sidebar-shortcode",
+  "license" : "GPL-2.0+",
+  "authors" : [{
+    "name" : "Joe Casabona",
+    "homepage" : "http://casabona.org",
+    "role" : "Author/Creator",
+    "email" : "jcasabona@gmail.com"
+  }, {
+    "name" : "Ed Gifford",
+    "homepage" : "http://www.blueblazeassociates.com",
+    "role" : "Composer-fier",
+    "email" : "egifford@blueblazeassociates.com"
+    }
+  ],
+  "keywords" : [
+  ]
+}
